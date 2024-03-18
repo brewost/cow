@@ -1,5 +1,4 @@
 const info = require('./information.js');
-console.log(info);
 const cowsay = require("cowsay");
 
 console.log(cowsay.say({
